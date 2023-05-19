@@ -1,2 +1,2 @@
-# data_mining
+# data mining
 数据挖掘
